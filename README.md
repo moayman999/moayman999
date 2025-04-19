@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moayman999
-- 👀 I’m interested in ...data analysis and network security
+- 👀 I’m interested in ... network security and competitive programming
 - 🌱 I’m currently learning ... computer science student
 - 💞️ I’m looking to collaborate on ... microsoft
 - 📫 How to reach me ... mohamedayman6137@gmail.com
